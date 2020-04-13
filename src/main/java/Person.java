@@ -21,7 +21,9 @@ public class Person {
         return age;
     }
 
+    /*
     public int getHeight(){
         return height;
     }
+    */
 }
