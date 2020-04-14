@@ -15,11 +15,11 @@ public class PersonTest {
         Person person = new Person("Ali",2,3);
         assertEquals(2, person.getAge());
     }
-    /*
+
     @Test
     public void getHeight() {
         Person person = new Person("Ali",2,3);
         assertEquals(3, person.getHeight());
     }
-*/
+
 }
